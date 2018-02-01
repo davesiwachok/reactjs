@@ -1,0 +1,21 @@
+
+npm install -g create-react-app
+create-react-app react
+create-react-native-app AwesomeProject
+
+cd AwesomeProject
+npm install react-router
+npm rm -f src/* - clears src folder 
+npm rm -f pulic/* 
+npm start
+npm install -g serve
+npm install -- react-router
+npm run build
+"homepage" : "http://handymanchicago.net/reactjs",
+http://bit.ly/2vY88Kr
+serve -s build
+http://localhost:8080/
+http://localhost:3000/
+http://localhost:5000/
+http://192.168.1.67:3000
+http://192.168.1.67:5000
